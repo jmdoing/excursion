@@ -1,0 +1,38 @@
+h1 {
+  font-family: Verdana;
+  font-weight: Normal;
+  font-size: 50px;
+  color: white;
+  text-align: center;
+
+}
+
+.link {
+  color: aquamarine;
+  font-size: 16px;
+}
+
+body {
+  background-color: black;
+  text-align: center;
+}
+
+h2 {
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+}
+
+.large-paragraph {
+  font-family: Verdana;
+  font-size: 21px;
+  color: gray;
+}
+
+.footer-right {
+  font-family: Verdana;
+  font-size: 21px;
+  color: gray;
+  text-align: right;
+}
